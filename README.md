@@ -5,17 +5,42 @@ literally anything that is visual can be customized.
 
 ![Preview](https://github.com/EbicSeal/Solar/blob/main/Naamloos.png)
 
-Completed: 70%
+## Module
+Version: `b0.7.4`
 
-Known issues:
+Completed: 60%
+
+State: `Unfinished`
+
+## Planned features:
+- Built in minimal style to atleast fix positional issues and make the base ui usable without a style
+- Easier way to add widgets / addon support outside of the module
+- Support for style animations (like drop downs smoothing out instead of just doing it instantly)
+- Content and Array widgets allowing the same widgets as Windows allow
+- More style modifiers like drop shadows and easier gradient use
+- Better Content size support
+- Easier widget positioning instead of just being locked to left and right
+- Window Top Buttons (not tabs, buttons, kinda like the standard `file` `view` `help` ect
+- Custom windows (custom ui in a window)
+- Bug fixes ofc
+
+Expect these features to be added over time, it may take a very long while to do so
+
+## Planned widgets:
+- Color picker (in 2 types)
+- Sliders (horizontal and vertical)
+- Sub Windows (Windows in Windows)
+- Trees
+
+## Known issues:
 - Arrays missing support for values and drop down widgets
 - Scrolling sucking utter ass because it uses the roblox default scrollable frames
 
 
-Do **not** make an issue when:
+## Do **not** make an issue when:
 - Your not using the library correctly / Using widget functions only made for internal use
 - Using a modified library
-- its about a style (unless its the default style that comes in `Example.lua`)
-- not using a style
+- Its about a style (unless its the default style that comes in `Example.lua`)
+- Not using a style
 
 failing to meet these demands may result in your issue being ignored.

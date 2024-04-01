@@ -10,7 +10,7 @@ Version: `b0.7.4`
 
 Completed: 60%
 
-State: `Unfinished`
+State: `Unfinished` `Usable`
 
 ## Planned features:
 - Built in minimal style to atleast fix positional issues and make the base ui usable without a style

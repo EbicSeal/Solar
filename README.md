@@ -3,7 +3,7 @@ Work in progress roblox ui lib lightly based on the windows 95 / 98 ui but with 
 
 literally anything that is visual can be customized.
 
-![Preview](https://github.com/EbicSeal/Solar/blob/main/Naamloos.png)
+![Preview](https://github.com/EbicSeal/Solar/blob/main/banner.png)
 
 ## Module
 Version: `b0.7.4`

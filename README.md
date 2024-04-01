@@ -33,7 +33,7 @@ Expect these features to be added over time, it may take a very long while to do
 - Trees
 
 ## Known issues:
-- Arrays missing support for values and drop down widgets
+- Arrays missing support for content and drop down widgets
 - Scrolling sucking utter ass because it uses the roblox default scrollable frames
 
 

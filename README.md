@@ -22,6 +22,7 @@ State: `Unfinished` `Usable`
 - Easier widget positioning instead of just being locked to left and right
 - Window Top Buttons (not tabs, buttons, kinda like the standard `file` `view` `help` ect
 - Custom windows (custom ui in a window)
+- Window specific styles
 - Bug fixes ofc
 
 Expect these features to be added over time, it may take a very long while to do so

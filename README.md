@@ -41,7 +41,7 @@ Expect these features to be added over time, it may take a very long while to do
 ## Do **not** make an issue when:
 - Your not using the library correctly / Using widget functions only made for internal use
 - Using a modified library
-- Its about a style (unless its the default style that comes in `Example.lua`)
+- Its about a style (unless its the default style that comes in releases)
 - Not using a style
 
 failing to meet these demands may result in your issue being ignored.

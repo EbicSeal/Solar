@@ -22,6 +22,7 @@ State: `Unfinished` `Usable`
 - Custom windows (custom ui in a window)
 - Window specific styles
 - Bug fixes ofc
+- Custom gui rendering (my own gui handler, roblox's version is so limiting..)
 
 Expect these features to be added over time, it may take a very long while to do so
 
@@ -32,7 +33,6 @@ Expect these features to be added over time, it may take a very long while to do
 - Trees
 
 ## Known issues:
-- Arrays missing support for content and drop down widgets
 - Scrolling sucking utter ass because it uses the roblox default scrollable frames
 
 

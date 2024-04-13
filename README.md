@@ -16,9 +16,7 @@ State: `Unfinished` `Usable`
 - Built in minimal style to atleast fix positional issues and make the base ui usable without a style
 - Easier way to add widgets / addon support outside of the module
 - Support for style animations (like drop downs smoothing out instead of just doing it instantly)
-- Content and Array widgets allowing the same widgets as Windows allow
 - More style modifiers like drop shadows and easier gradient use
-- Better Content size support
 - Easier widget positioning instead of just being locked to left and right
 - Window Top Buttons (not tabs, buttons, kinda like the standard `file` `view` `help` ect
 - Custom windows (custom ui in a window)
